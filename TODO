@@ -1,0 +1,24 @@
+## This is an experimental lab for Flexible Kernel based Unsupervised Learning
+
+# The ideology behind this library is Obejective -> Learner -> Controller for Unsupervised learning
+
+
+Will implement following:
+1) Different Distance Metrices
+2) Plug-in Unsupervised Learning Methods :
+    a) K-Nearest Neighbours
+    b) K - Means Clustering
+    c) Agglomerative Clustering (Hierarchical Clustering)
+    d) Gaussian Mixter Models
+    e) Linear Vector Quantization
+    f) SVM Based Learning
+    g) Kernel based Adaptive Clustering
+    h) Expectation Maximisation
+    j) Hidden Markov Models
+    k) Neural Networks
+3) Objective Function <- Learner Function <- Controllers Architecture
+4) Bayesian Methods for Tuning and Behavioural Analysis
+5) Model Storing and Retrieving
+6) Simulations for Pattern Behaviours
+
+# This is supposedily a big task. All are cordially invited to contribute to this library
